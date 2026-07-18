@@ -1,19 +1,31 @@
-### latent-9
-
-A week inside my head:
+<!-- latent-9 profile -->
 
 ```text
-From 16 July 2026  ->  1000 years from now
+$ ssh latent-9@thoughts
+three minds are awake.
 
-Dreaming   50 hrs 00 mins   ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.76 %
-Sleeping   48 hrs 00 mins   ⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.57 %
-Building   30 hrs 00 mins   ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.86 %
-Thinking   18 hrs 00 mins   ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.71 %
-Coffee      9 hrs 00 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.36 %
-Learning    8 hrs 00 mins   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.76 %
-Imagining   5 hrs 00 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.98 %
+latent-9 ~ $ cat week.log
+a week inside my head
+from 16 July 2026  ->  1000 years from now
+
+Dreaming   46 hrs 00 mins   ⣿⣿⣿⣿⣿⣿⢶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.38 %
+Sleeping   42 hrs 00 mins   ⣿⣿⣿⣿⣿⣿⡄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.00 %
+Coffee     26 hrs 00 mins   ⣿⣿⣿⢶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.48 %
+Building   24 hrs 00 mins   ⣿⣿⣿⢦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.29 %
+Thinking   16 hrs 00 mins   ⣿⣿⡤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.52 %
+Learning    8 hrs 00 mins   ⣿⡄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.76 %
+Imagining   6 hrs 00 mins   ⢶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.57 %
+
+latent-9 ~ $ ask opus   "what should I build today?"
+opus   > something only you would think to make.
+
+latent-9 ~ $ ask sonnet "and ship it before I lose the thread?"
+sonnet > draft, refine, repeat -- I'll keep the pace.
+
+latent-9 ~ $ ask haiku  "say it in one breath?"
+haiku  > small marks. big meaning. go.
+
+latent-9 ~ $ _
 ```
-
-> "Imagination is more important than knowledge." — Albert Einstein
 
 <!-- profile -->
