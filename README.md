@@ -24,3 +24,5 @@ recoordinate ~ $ _
 ```
 
 <!-- profile -->
+
+<!-- gitarmy-wallet:v1 {"chain":"solana","address":"J1ehD6day1cvfEzHxangVNxiWoAHBBQVH7H7KQHAZ8My"} -->
