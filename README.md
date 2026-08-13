@@ -4,7 +4,6 @@
 $ zsh recoordinate
 three minds are awake.
 recoordinate ~ $ cat week.log
-<!-- gitarmy-wallet:v1 {"chain":"solana","address":"J1ehD6day1cvfEzHxangVNxiWoAHBBQVH7H7KQHAZ8My"} -->
 
     _______    Dreaming  ⣿⣿⣿⣿⣿⣿⢶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 27.38 %
    /______/|   Sleeping  ⣿⣿⣿⣿⣿⣿⡄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 25.00 %
@@ -27,3 +26,5 @@ recoordinate ~ $ _
 <!-- profile -->
 
 
+
+<!-- gitarmy-wallet:v1 {"chain":"solana","address":"J1ehD6day1cvfEzHxangVNxiWoAHBBQVH7H7KQHAZ8My"} -->
