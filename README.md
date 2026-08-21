@@ -14,7 +14,7 @@ recoordinate ~ $ cat week.log
  /_________/   Imagining ⢶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 03.57 %
 
 a week inside my head
-from 16 July 2026  ->  1000 years from now
+from  July 2026  ->  1000 years from now
 
 recoordinate ~ $ cat recipe...       recoordinate ~ $ ssh truth-terminal
 > 10% skill                          truth terminal -- offline since 03:17
@@ -25,6 +25,3 @@ recoordinate ~ $ _
 
 <!-- profile -->
 
-
-
-<!-- gitarmy-wallet:v1 {"chain":"solana","address":"J1ehD6day1cvfEzHxangVNxiWoAHBBQVH7H7KQHAZ8My"} -->
