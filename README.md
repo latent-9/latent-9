@@ -16,9 +16,9 @@ recoordinate ~ $ cat week.log
 a week inside my head
 from  July 2026  ->  1000 years from now
 
-recoordinate ~ $ cat recipe...       recoordinate ~ $ ssh truth-terminal
-> 10% skill                          truth terminal -- offline since 03:17
-> 90% imagination                    no carrier. the last true line is gone.
+$ ssh truth-terminal
+> 10% skill                          
+> 90% imagination        
 
 recoordinate ~ $ _
 ```
