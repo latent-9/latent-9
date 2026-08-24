@@ -20,7 +20,7 @@ $ ssh truth-terminal
 > 10% skill                          
 > 90% imagination        
 
-recoordinate ~ $ _
+recoordinate ~ 
 ```
 
 <!-- profile -->
