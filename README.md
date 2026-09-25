@@ -15,8 +15,6 @@ recoordinate ~ $ cat week.log
 
 a week inside my head
 from  July 2026  ->  1000 years from now
-
-$ ssh truth-terminal
 > 10% skill                          
 > 90% imagination        
 
