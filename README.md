@@ -30,9 +30,11 @@ recoordinate ~ $ tail merged.log
 
 recoordinate ~ $ wc -l merged.log
 
-22 merged in <a href="https://github.com/anza-xyz">anza-xyz</a>, 12 of them in agave
-6 logic fixes in <a href="https://github.com/solana-program">solana-program</a>
-more in <a href="https://github.com/codama-idl/codama">codama</a>, <a href="https://github.com/biomejs/biome">biome</a>, <a href="https://github.com/nushell/nushell">nushell</a>
+<a href="https://github.com/anza-xyz">anza-xyz</a>           22 merged, 12 of them in agave
+<a href="https://github.com/solana-program">solana-program</a>     6 logic fixes
+<a href="https://github.com/codama-idl/codama">codama</a>             1 logic fix
+<a href="https://github.com/biomejs/biome">biome</a>              1 merged
+<a href="https://github.com/nushell/nushell">nushell</a>            2 merged
 
 recoordinate ~ $ cat tools/*
 
