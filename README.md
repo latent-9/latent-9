@@ -1,6 +1,6 @@
 <!-- recoordinate profile -->
 
-```text
+<pre>
 $ zsh recoordinate
 three minds are awake.
 recoordinate ~ $ cat week.log
@@ -17,30 +17,35 @@ recoordinate ~ $ cat work.log
 
 parsers and wire formats that carry adversary-controlled bytes.
 one engine, many targets. receipts or it didn't happen.
-```
 
-merged, newest first:
+recoordinate ~ $ tail merged.log
 
-[agave#15967](https://github.com/anza-xyz/agave/pull/15967) svm: load: use rooted access slot  
-[sbpf#233](https://github.com/anza-xyz/sbpf/pull/233) jit: align due_insn_count with the interpreter on budget exhaustion  
-[agave#15563](https://github.com/anza-xyz/agave/pull/15563) xdp: replace the ipv6 destination panic with a debug_assert  
-[agave#15483](https://github.com/anza-xyz/agave/pull/15483) repair: drop late replies to already answered block id repair requests  
-[kit#2067](https://github.com/anza-xyz/kit/pull/2067) codecs: reject truncated and overlong shortU16 encodings  
-[token-2022#1509](https://github.com/solana-program/token-2022/pull/1509) fix the multisig account list for confidential mint and burn  
+<a href="https://github.com/anza-xyz/agave/pull/15967">agave#15967</a>  svm: load: use rooted access slot
+<a href="https://github.com/anza-xyz/sbpf/pull/233">sbpf#233</a>  jit: align due_insn_count with the interpreter on budget exhaustion
+<a href="https://github.com/anza-xyz/agave/pull/15563">agave#15563</a>  xdp: replace the ipv6 destination panic with a debug_assert
+<a href="https://github.com/anza-xyz/agave/pull/15483">agave#15483</a>  repair: drop late replies to already answered block id repair requests
+<a href="https://github.com/anza-xyz/kit/pull/2067">kit#2067</a>  codecs: reject truncated and overlong shortU16 encodings
+<a href="https://github.com/solana-program/token-2022/pull/1509">token-2022#1509</a>  fix the multisig account list for confidential mint and burn
 
-22 merged in [anza-xyz](https://github.com/anza-xyz), 12 of them in agave.
-6 logic fixes in [solana-program](https://github.com/solana-program). more in
-[codama](https://github.com/codama-idl/codama), [biome](https://github.com/biomejs/biome),
-[nushell](https://github.com/nushell/nushell).
+recoordinate ~ $ wc -l merged.log
 
-[chainoffuzz](https://github.com/latent-9/chainoffuzz) mutation fuzzer for consensus adjacent parsers. 130M iterations, one seed, reruns are byte-identical.  
-[finality-watchdog](https://github.com/latent-9/finality-watchdog) statistical watchdog for solana finality latency regime shifts.  
-[skill-lint](https://github.com/latent-9/skill-lint) static analyzer for agent skills: prompt injection, secret scanning, exfiltration.  
+  22 merged in <a href="https://github.com/anza-xyz">anza-xyz</a>, 12 of them in agave.
+   6 logic fixes in <a href="https://github.com/solana-program">solana-program</a>.
+     more in <a href="https://github.com/codama-idl/codama">codama</a>, <a href="https://github.com/biomejs/biome">biome</a>, <a href="https://github.com/nushell/nushell">nushell</a>.
+
+recoordinate ~ $ cat tools/*
+
+<a href="https://github.com/latent-9/chainoffuzz">chainoffuzz</a>       mutation fuzzer for consensus adjacent parsers.
+                   130M iterations, one seed, reruns are byte-identical.
+<a href="https://github.com/latent-9/finality-watchdog">finality-watchdog</a>  statistical watchdog for solana finality latency regime shifts.
+<a href="https://github.com/latent-9/skill-lint">skill-lint</a>         static analyzer for agent skills: prompt injection,
+                   secret scanning, exfiltration.
+
+recoordinate ~ $ cat policy
 
 findings in production parsers go to the project security policy first.
 
-```text
 recoordinate ~ $
-```
+</pre>
 
 <!-- profile -->
