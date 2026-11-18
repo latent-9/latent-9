@@ -1,9 +1,6 @@
 <!-- recoordinate profile -->
 
 <pre>
-$ zsh recoordinate
-three minds are awake.
-
 recoordinate ~ $ cat week.log
 
     _______   
