@@ -36,14 +36,6 @@ recoordinate ~ $ wc -l merged.log
 <a href="https://github.com/biomejs/biome">biome</a>              1 merged
 <a href="https://github.com/nushell/nushell">nushell</a>            2 merged
 
-recoordinate ~ $ cat tools/*
-
-<a href="https://github.com/latent-9/chainoffuzz">chainoffuzz</a>        mutation fuzzer for consensus adjacent parsers
-                   130M iterations, one seed, reruns are byte-identical
-<a href="https://github.com/latent-9/finality-watchdog">finality-watchdog</a>  statistical watchdog for solana finality latency regime shifts
-<a href="https://github.com/latent-9/skill-lint">skill-lint</a>         static analyzer for agent skills:
-                   prompt injection, secret scanning, exfiltration
-
 recoordinate ~ $
 </pre>
 
